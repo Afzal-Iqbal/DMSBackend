@@ -24,8 +24,9 @@ app.use(cors({
 
         const allowedOrigins = [
             "http://localhost:5173",
-            "https://donation-ms-frontend.vercel.app",
-            "https://donation-ms-frontend-dg5ll58as-afzal-iqbals-projects.vercel.app"
+            "https://dms-frontend-lovat.vercel.app",
+            "https://dms-frontend-git-main-afzal-iqbals-projects.vercel.app",
+            "https://dms-frontend-a9jjzo3vw-afzal-iqbals-projects.vercel.app"
         ];
 
         // Check if origin matches allowed list OR matches the Vercel preview pattern
